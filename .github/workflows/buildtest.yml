@@ -16,7 +16,7 @@ jobs:
     
     defaults:
        run:
-         working-directory: ./blog-react/
+         working-directory: react-blog/
 
     strategy:
       matrix:
